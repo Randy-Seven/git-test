@@ -1,3 +1,3 @@
-# Git test
+# Git Tests
 
-Git test
+Crash course for git
